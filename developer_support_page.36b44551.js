@@ -1009,4 +1009,4 @@ module.exports={"No matching results":"沒有相符的結果。","Show suggestio
 var global = arguments[3];
 var e=arguments[3];require("babel-polyfill");var r=a(require("react")),t=a(require("react-dom")),l=a(require("@react/react-spectrum/Provider")),u=a(require("./src/components/DropdownSelector"));function a(e){return e&&e.__esModule?e:{default:e}}e._babelPolyfill=!1;var o=r.default.createElement(l.default,{theme:"lightest"},r.default.createElement(u.default,null));t.default.render(o,document.querySelector("#dropdown"));
 },{"babel-polyfill":"JIy0","react":"HdMw","react-dom":"X9zx","@react/react-spectrum/Provider":"GF/w","./src/components/DropdownSelector":"hhJs"}]},{},["Focm"], null)
-//# sourceMappingURL=https://www.adobe.io/support/developer_support_page.36b44551.js.map
+//# sourceMappingURL=https://adobedocs.github.io/developer-support/developer_support_page.36b44551.js.map
